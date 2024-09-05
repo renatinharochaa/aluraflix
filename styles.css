@@ -3,6 +3,11 @@ body{
   background: rgb(114, 114, 228);
 }
 header {
+   
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
   border-bottom: solid 2px rgb(26, 26, 27);
   padding: 20px;
   font-size: 32px;
